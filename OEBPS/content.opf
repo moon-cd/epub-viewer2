@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" xml:lang="ko-KR" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 21.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>전자책(포트폴리오)</dc:title>
+		<dc:date>2026-09-14T10:56:25Z</dc:date>
+		<dc:language>ko-KR</dc:language>
+		<meta property="dcterms:modified">2026-09-14T10:56:26Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="전자책-포트폴리오--1" href="%EC%A0%84%EC%9E%90%EC%B1%85%28%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%29-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="전자책-포트폴리오--2" href="%EC%A0%84%EC%9E%90%EC%B1%85%28%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%29-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="전자책-포트폴리오--3" href="%EC%A0%84%EC%9E%90%EC%B1%85%28%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%29-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="전자책-포트폴리오--4" href="%EC%A0%84%EC%9E%90%EC%B1%85%28%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%29-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="전자책-포트폴리오--5" href="%EC%A0%84%EC%9E%90%EC%B1%85%28%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%29-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="우리의_컬러.mp3" href="audio/%EC%9A%B0%EB%A6%AC%EC%9D%98_%EC%BB%AC%EB%9F%AC.mp3" media-type="audio/mpeg" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="NotoSansKR-Regular.ttf" href="font/NotoSansKR-Regular.ttf" media-type="application/x-font-ttf" />
+		<item id="x-주-반짇고리_로고_목업_최종_copy-A4-.jpg" href="image/%28%EC%A3%BC%29%EB%B0%98%EC%A7%87%EA%B3%A0%EB%A6%AC_%EB%A1%9C%EA%B3%A0_%EB%AA%A9%EC%97%85_%EC%B5%9C%EC%A2%85_copy%28A4%29.jpg" media-type="image/jpeg" />
+		<item id="x0309_명함연습-서미경-_목업3_copy.jpg" href="image/0309_%EB%AA%85%ED%95%A8%EC%97%B0%EC%8A%B5%28%EC%84%9C%EB%AF%B8%EA%B2%BD%29_%EB%AA%A9%EC%97%853_copy.jpg" media-type="image/jpeg" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x1._우리는_행복을_올리고_외로움을_숨긴다-공모전_제출용-.jpg" href="image/1._%EC%9A%B0%EB%A6%AC%EB%8A%94_%ED%96%89%EB%B3%B5%EC%9D%84_%EC%98%AC%EB%A6%AC%EA%B3%A0_%EC%99%B8%EB%A1%9C%EC%9B%80%EC%9D%84_%EC%88%A8%EA%B8%B4%EB%8B%A4%28%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%A0%9C%EC%B6%9C%EC%9A%A9%29.jpg" media-type="image/jpeg" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x2._사라지는_것들-공모전_제출용-.jpg" href="image/2._%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94_%EA%B2%83%EB%93%A4%28%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%A0%9C%EC%B6%9C%EC%9A%A9%29.jpg" media-type="image/jpeg" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x3._HUMAN_ERROR-공모전_제출용-.jpg" href="image/3._HUMAN_ERROR%28%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%A0%9C%EC%B6%9C%EC%9A%A9%29.jpg" media-type="image/jpeg" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x49.png" href="image/49.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x56.png" href="image/56.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x60.png" href="image/60.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="Book_Cover_PSD_Mockup-에스투미-_copy.jpg" href="image/Book_Cover_PSD_Mockup%28%EC%97%90%EC%8A%A4%ED%88%AC%EB%AF%B8%29_copy.jpg" media-type="image/jpeg" />
+		<item id="free-icon-email-542638.png" href="image/free-icon-email-542638.png" media-type="image/png" />
+		<item id="free-icon-house-3637938.png" href="image/free-icon-house-3637938.png" media-type="image/png" />
+		<item id="free-icon-instagram-174855.png" href="image/free-icon-instagram-174855.png" media-type="image/png" />
+		<item id="free-icon-phone-call-3616215.png" href="image/free-icon-phone-call-3616215.png" media-type="image/png" />
+		<item id="달꽃_최종.jpg" href="image/%EB%8B%AC%EA%BD%83_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="달아오름_최종.jpg" href="image/%EB%8B%AC%EC%95%84%EC%98%A4%EB%A6%84_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="미로_방탈출카페_최종.jpg" href="image/%EB%AF%B8%EB%A1%9C_%EB%B0%A9%ED%83%88%EC%B6%9C%EC%B9%B4%ED%8E%98_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="삐치피치_보드-A4-.jpg" href="image/%EC%82%90%EC%B9%98%ED%94%BC%EC%B9%98_%EB%B3%B4%EB%93%9C%28A4%29.jpg" media-type="image/jpeg" />
+		<item id="샤이머쓱캣_보드_최종-A4-.jpg" href="image/%EC%83%A4%EC%9D%B4%EB%A8%B8%EC%93%B1%EC%BA%A3_%EB%B3%B4%EB%93%9C_%EC%B5%9C%EC%A2%85%28A4%29.jpg" media-type="image/jpeg" />
+		<item id="수국에_빠진_국수_최종.jpg" href="image/%EC%88%98%EA%B5%AD%EC%97%90_%EB%B9%A0%EC%A7%84_%EA%B5%AD%EC%88%98_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="아이러브미_목업_copy-A4-.png" href="image/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B8%8C%EB%AF%B8_%EB%AA%A9%EC%97%85_copy%28A4%29.png" media-type="image/png" />
+		<item id="액자.jpg" href="image/%EC%95%A1%EC%9E%90.jpg" media-type="image/jpeg" />
+		<item id="에스투미_명함_3.jpg" href="image/%EC%97%90%EC%8A%A4%ED%88%AC%EB%AF%B8_%EB%AA%85%ED%95%A8_3.jpg" media-type="image/jpeg" />
+		<item id="에스투미_명함_32.jpg" href="image/%EC%97%90%EC%8A%A4%ED%88%AC%EB%AF%B8_%EB%AA%85%ED%95%A8_32.jpg" media-type="image/jpeg" />
+		<item id="에스투미_책표지-1.jpg" href="image/%EC%97%90%EC%8A%A4%ED%88%AC%EB%AF%B8_%EC%B1%85%ED%91%9C%EC%A7%80-1.jpg" media-type="image/jpeg" />
+		<item id="오로라_디자인스튜디오_최종.jpg" href="image/%EC%98%A4%EB%A1%9C%EB%9D%BC_%EB%94%94%EC%9E%90%EC%9D%B8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="오작교_최종.jpg" href="image/%EC%98%A4%EC%9E%91%EA%B5%90_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="초대장_copy.jpg" href="image/%EC%B4%88%EB%8C%80%EC%9E%A5_copy.jpg" media-type="image/jpeg" />
+		<item id="초록한칸_최종.jpg" href="image/%EC%B4%88%EB%A1%9D%ED%95%9C%EC%B9%B8_%EC%B5%9C%EC%A2%85.jpg" media-type="image/jpeg" />
+		<item id="카드뉴스_목업_최종2_copy-A4-.png" href="image/%EC%B9%B4%EB%93%9C%EB%89%B4%EC%8A%A4_%EB%AA%A9%EC%97%85_%EC%B5%9C%EC%A2%852_copy%28A4%29.png" media-type="image/png" />
+		<item id="판타시아대구페스타1_copy-A4-.jpg" href="image/%ED%8C%90%ED%83%80%EC%8B%9C%EC%95%84%EB%8C%80%EA%B5%AC%ED%8E%98%EC%8A%A4%ED%83%801_copy%28A4%29.jpg" media-type="image/jpeg" />
+		<item id="포트폴리오_표지_복사.jpg" href="image/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%ED%91%9C%EC%A7%80_%EB%B3%B5%EC%82%AC.jpg" media-type="image/jpeg" />
+		<item id="피치_미니배너_300.jpg" href="image/%ED%94%BC%EC%B9%98_%EB%AF%B8%EB%8B%88%EB%B0%B0%EB%84%88_300.jpg" media-type="image/jpeg" />
+		<item id="홍보_전단지_서미경-목업용-.png" href="image/%ED%99%8D%EB%B3%B4_%EC%A0%84%EB%8B%A8%EC%A7%80_%EC%84%9C%EB%AF%B8%EA%B2%BD%28%EB%AA%A9%EC%97%85%EC%9A%A9%29.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="전자책-포트폴리오--1" />
+		<itemref idref="전자책-포트폴리오--2" />
+		<itemref idref="전자책-포트폴리오--3" />
+		<itemref idref="전자책-포트폴리오--4" />
+		<itemref idref="전자책-포트폴리오--5" />
+	</spine>
+</package>
